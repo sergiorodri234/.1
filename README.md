@@ -1,2 +1,2 @@
-Hi! 🔭 I’m currently study economics
+<h1 align="center"> Hi I`m student of Economics 🐶:.</h1>
 
