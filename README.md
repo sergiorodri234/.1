@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I`m student of Economics 🐶:.</h1>
+<h1 align="center"> Hi, I'm an economist in the process of obtaining my degree 🐶:.</h1>
 
 <p align="center">
     <a href="https://sergiorodri234.github.io/about.html">About Me</a>
