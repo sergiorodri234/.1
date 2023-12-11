@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm an economist 🐶 at Universidad Santo Tomás:.</h1>
+<h1 align="center"> Hi, I'm economist 🐶 at Universidad Santo Tomás:.</h1>
 
 <p align="center">
     <a href="https://sergiorodri234.github.io/about.html">About Me</a>
